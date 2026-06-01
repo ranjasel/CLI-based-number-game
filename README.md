@@ -45,6 +45,5 @@ Follow on-screen prompts
 ## 📌 Notes
 Opponent is currently random
 Designed as a simple CLI project
-🧑‍💻 Author
 
 Made as a learning project
