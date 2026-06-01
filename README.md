@@ -36,6 +36,15 @@ Each round, both players choose a number from 1 to 10.
 ---
 
 ## ▶️ Run the Game
-
-```bash
 python main.py
+
+## 🎮 Controls
+Enter numbers between 1 and 10
+Follow on-screen prompts
+
+## 📌 Notes
+Opponent is currently random
+Designed as a simple CLI project
+🧑‍💻 Author
+
+Made as a learning project
